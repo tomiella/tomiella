@@ -4,7 +4,7 @@
 
 ## What I'm Working on
 ✔️ Retrieve | Autocheckout Software\
-✔️ ...\
+✔️ ...
 
 ### My Stats
 
