@@ -1,6 +1,4 @@
-<h1 align="center">Someone</h1>
-
-#### I have a broad skillset, from low level and embedded programing to full stack development, no project is too diverse or too complex.
+<h1 align="center">?</h1>
 
 ## What I'm Working on
 ✔️ Retrieve | Autocheckout Software\
