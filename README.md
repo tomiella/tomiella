@@ -1,7 +1,7 @@
 <h1 align="center">?</h1>
 
 ## What I'm Working on
-✔️ Retrieve | Autocheckout Software\
+✔️ ...
 ✔️ ... 
 
 ### My Stats
