@@ -2,7 +2,6 @@
 
 ## What I'm Working on
 ✔️ ...
-✔️ ... 
 
 ### My Stats
 
