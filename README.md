@@ -1,7 +1,6 @@
 <h1 align="center">Golang or go home</h1>
 
 ### Working on
-- Retrieve
 - several BP-Solutions
 
 ### Stats
