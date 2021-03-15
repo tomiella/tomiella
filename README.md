@@ -1,7 +1,7 @@
 <h1 align="center">Golang or go home</h1>
 
 ```
-console.log("Hello World");
+fmt.Println("Hello World")
 ```
 
 ### Stats
